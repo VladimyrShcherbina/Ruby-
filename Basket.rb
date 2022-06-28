@@ -26,4 +26,4 @@ puts "Sum of oll purchase #{price_basket}"
 puts "_" * 100
 puts "You buy #{keys}"
 
-# food_basket = {"q"=>{:price_per_item=>1.0, :quantity_per_item=>1.0}, "w"=>{:price_per_item=>2.0, :quantity_per_item=>2.0}}
+# food_basket = {"Apple"=>{:price_per_item=>1.0, :quantity_per_item=>1.0}, "Cherry"=>{:price_per_item=>2.0, :quantity_per_item=>2.0}}
